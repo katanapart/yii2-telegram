@@ -1,5 +1,5 @@
 {
-  "name": "katanapart/yii2-telegram",
+  "name": "katanapart/yii2-telegram-helper",
   "description": "Support chat for site based on Telegram bot",
   "type": "yii2-extension",
   "keywords": ["yii2","extension","module","chat", "telegram", "bot"],
